@@ -10,7 +10,6 @@ namespace BoatEscape
 {
     class Program
     {
-        //float rot = 0.0f;
         static float iceZ = 0.0f;
         static float iceX = 0.0f;
         static float b = 0.0f;
