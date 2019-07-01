@@ -9,7 +9,7 @@ Notas importantes:
 *Certo, se você realizou o passo descrito acima, notará que uma excessão foi gerada. Pois bem, isso aconteceu porque a biblioteca GLUT do Tao Framework tem como dependência a DLL "freglut.dll" que acompanha o projeto. Para resolver este problema, você terá que mover esta DLL para o caminho "bin/Debug" do projeto. Por isso lhe pedi que compilasse o projeto primeiramente. 
 
 
-CAPTURAS DE TELA
+Capturas de tela:
 
 ![Captura do jogo](https://github.com/Luiz-Augusto-Ventura/boat-escape-opengl/tree/master/screenshots/captura_game.png)
 
