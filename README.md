@@ -7,3 +7,10 @@ Notas importantes:
 *É necessário compilar o projeto pelo menos uma vez, para que o Visual Studio possa criar o caminho "bin/Debug" dentro do projeto. Nesta pasta ficará o aplicativo final compilado para linguagem de máquina. 
 
 *Certo, se você realizou o passo descrito acima, notará que uma excessão foi gerada. Pois bem, isso aconteceu porque a biblioteca GLUT do Tao Framework tem como dependência a DLL "freglut.dll" que acompanha o projeto. Para resolver este problema, você terá que mover esta DLL para o caminho "bin/Debug" do projeto. Por isso lhe pedi que compilasse o projeto primeiramente. 
+
+
+CAPTURAS DE TELA
+
+![Captura do jogo](https://github.com/Luiz-Augusto-Ventura/boat-escape-opengl/tree/master/screenshots/captura_game.png)
+
+![Captura da pontuação](https://github.com/Luiz-Augusto-Ventura/boat-escape-opengl/tree/master/screenshots/captura_score.png)
