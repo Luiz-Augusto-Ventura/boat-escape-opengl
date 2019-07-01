@@ -11,8 +11,8 @@ Notas importantes:
 
 Capturas de tela:
 
-![Captura do jogo](https://github.com/Luiz-Augusto-Ventura/boat-escape-opengl/tree/master/screenshots/captura_game.png)
+![Captura do jogo](screenshots/captura_game.png)
 
-![Captura da pontuação](https://github.com/Luiz-Augusto-Ventura/boat-escape-opengl/tree/master/screenshots/captura_score.png)
+![Captura da pontuação](screenshots/captura_score.png)
 
 
